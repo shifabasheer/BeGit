@@ -1,2 +1,2 @@
-# BeGit
-Repo for Github Beginers
+# Be-Git
+This repo is website for the Be-git event
